@@ -1,0 +1,16 @@
+C:\new project\CSharp10\bin\Debug\net5.0\CSharp10.exe
+C:\new project\CSharp10\bin\Debug\net5.0\CSharp10.deps.json
+C:\new project\CSharp10\bin\Debug\net5.0\CSharp10.runtimeconfig.json
+C:\new project\CSharp10\bin\Debug\net5.0\CSharp10.runtimeconfig.dev.json
+C:\new project\CSharp10\bin\Debug\net5.0\CSharp10.dll
+C:\new project\CSharp10\bin\Debug\net5.0\ref\CSharp10.dll
+C:\new project\CSharp10\bin\Debug\net5.0\CSharp10.pdb
+C:\new project\CSharp10\obj\Debug\net5.0\CSharp10.csproj.AssemblyReference.cache
+C:\new project\CSharp10\obj\Debug\net5.0\CSharp10.GeneratedMSBuildEditorConfig.editorconfig
+C:\new project\CSharp10\obj\Debug\net5.0\CSharp10.AssemblyInfoInputs.cache
+C:\new project\CSharp10\obj\Debug\net5.0\CSharp10.AssemblyInfo.cs
+C:\new project\CSharp10\obj\Debug\net5.0\CSharp10.csproj.CoreCompileInputs.cache
+C:\new project\CSharp10\obj\Debug\net5.0\CSharp10.dll
+C:\new project\CSharp10\obj\Debug\net5.0\ref\CSharp10.dll
+C:\new project\CSharp10\obj\Debug\net5.0\CSharp10.pdb
+C:\new project\CSharp10\obj\Debug\net5.0\CSharp10.genruntimeconfig.cache
